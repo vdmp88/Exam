@@ -4,11 +4,11 @@ public class Videoplayer extends Player {
         System.out.printf("play \n");
     }
 
-//    @Override
-//    public void pause() {
-//        System.out.printf("pause \n");
-//    }
-//
+    @Override
+    public void pause() {
+        System.out.printf("pause \n");
+    }
+
 //    public void rewind(int time) {
 //        System.out.println("Rewind to: " + time);
 //    }

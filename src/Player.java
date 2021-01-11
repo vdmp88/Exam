@@ -1,6 +1,6 @@
 public abstract class Player implements Technics {
     abstract public void play();
-//    abstract public void pause();
+    abstract public void pause();
 
     @Override
     public void powerOff() {
