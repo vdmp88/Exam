@@ -9,7 +9,7 @@ public class Videoplayer extends Player {
         System.out.printf("pause \n");
     }
 
-//    public void rewind(int time) {
-//        System.out.println("Rewind to: " + time);
-//    }
+    public void rewind(int time) {
+        System.out.println("Rewind to: " + time);
+    }
 }

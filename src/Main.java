@@ -5,6 +5,6 @@ public class Main {
 
         videoplayer1.powerOn();
         videoplayer1.play();
-//        videoplayer1.rewind(50);
+        videoplayer1.rewind(50);
     }
 }
